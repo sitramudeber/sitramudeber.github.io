@@ -1,0 +1,36 @@
+body{
+    padding: 30px 200px 30px;
+    background-color: rgba(119, 136, 153, 0.856);
+}
+h1{
+    text-align: center;
+    color: darkblue;
+}
+h2{
+    color: purple;
+    text-align: center;
+    margin-top: 20px;
+}
+img{
+    display: block;
+    margin: 10px;
+    width: 200px;
+    height: auto;
+    text-align: center;
+    padding:20px 250px
+}
+p{
+    font-size: 23px;
+    text-align: center;
+    background-attachment:rgba(32, 22, 36, 0.438);
+}
+button{
+    display: block;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: rgb(135, 227, 250);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
